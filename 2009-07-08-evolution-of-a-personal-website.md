@@ -28,7 +28,7 @@ Just in case you forgot what the site looked like last week, here is a quick ref
 
 It was a simple centred layout with a Flash header. The header and background were time-sensitive and would change depending on the time of day. By clicking the pink star you could trigger a stylesheet switcher from inside Flash and time warp the design. I used my mad-2006-skills to make that happen and to this day love the effect—too bad it just didn’t work in the new design.
 
-![The old design: online from 2006 to July 3<sup>rd</sup>, 2009.](evolution/old-site.jpg)
+![The old design: online from 2006 to July 3rd, 2009.](evolution/old-site.jpg)
 
 #### Likes
 
