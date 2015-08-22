@@ -32,20 +32,20 @@ A semantic text editor would have the same look and be used the same way but the
 
 ### Proposed Toolbar Buttons
 
-- <img src="{{"img2"|env}}/articles/web-not-word/a.gif" width="21" height="20" alt=""> `<a>` Create a link. Allow the user to add a URL and an optional title. (Lets not try to abstract away what a link is with globes and chain icons)
-- <img src="{{"img2"|env}}/articles/web-not-word/em.gif" width="20" height="20" alt=""> `<em>` Emphasize the text.
-- <img src="{{"img2"|env}}/articles/web-not-word/strong.gif" width="20" height="20" alt=""> `<strong>` Strongly emphasize the text.
-- <img src="{{"img2"|env}}/articles/web-not-word/small.gif" width="20" height="20" alt=""> `<small>` Mark the text as fine print.
-- <img src="{{"img2"|env}}/articles/web-not-word/abbr.gif" width="20" height="20" alt=""> `<abbr>` Mark the text as an abbreviation and add a definition.
-- <img src="{{"img2"|env}}/articles/web-not-word/sub.gif" width="20" height="20" alt=""> `<sub>` Make the text subscript.
-- <img src="{{"img2"|env}}/articles/web-not-word/sup.gif" width="20" height="20" alt=""> `<sup>` Make the text superscript.
-- <img src="{{"img2"|env}}/articles/web-not-word/i.gif" width="20" height="20" alt=""> `<i>` Mark the text as being in an alternate voice (e.g. a thought, a technical term, a phrase in another language, etc).
-- <img src="{{"img2"|env}}/articles/web-not-word/b.gif" width="20" height="20" alt=""> `<b>` Mark the text as a keyword.
-- <img src="{{"img2"|env}}/articles/web-not-word/mark.gif" width="20" height="20" alt=""> `<mark>` Highlight the text for reference purposes.
-- <img src="{{"img2"|env}}/articles/web-not-word/ins.gif" width="20" height="20" alt=""> `<ins>` Mark the text as being newly inserted.
-- <img src="{{"img2"|env}}/articles/web-not-word/del.gif" width="20" height="20" alt=""> `<del>` Mark the text as being deleted.
-- <img src="{{"img2"|env}}/articles/web-not-word/cite.gif" width="20" height="20" alt=""> `<cite>` Mark the text as being the title of a work (e.g. a book, a poem, a song, a film, a TV show, a game, etc).
-- <img src="{{"img2"|env}}/articles/web-not-word/time.gif" width="20" height="20" alt=""> `<time>` Mark the text as being a time and get the user to add a date-time.
+- <img src="web-not-word/a.gif" width="21" height="20" alt=""> `<a>` Create a link. Allow the user to add a URL and an optional title. (Lets not try to abstract away what a link is with globes and chain icons)
+- <img src="web-not-word/em.gif" width="20" height="20" alt=""> `<em>` Emphasize the text.
+- <img src="web-not-word/strong.gif" width="20" height="20" alt=""> `<strong>` Strongly emphasize the text.
+- <img src="web-not-word/small.gif" width="20" height="20" alt=""> `<small>` Mark the text as fine print.
+- <img src="web-not-word/abbr.gif" width="20" height="20" alt=""> `<abbr>` Mark the text as an abbreviation and add a definition.
+- <img src="web-not-word/sub.gif" width="20" height="20" alt=""> `<sub>` Make the text subscript.
+- <img src="web-not-word/sup.gif" width="20" height="20" alt=""> `<sup>` Make the text superscript.
+- <img src="web-not-word/i.gif" width="20" height="20" alt=""> `<i>` Mark the text as being in an alternate voice (e.g. a thought, a technical term, a phrase in another language, etc).
+- <img src="web-not-word/b.gif" width="20" height="20" alt=""> `<b>` Mark the text as a keyword.
+- <img src="web-not-word/mark.gif" width="20" height="20" alt=""> `<mark>` Highlight the text for reference purposes.
+- <img src="web-not-word/ins.gif" width="20" height="20" alt=""> `<ins>` Mark the text as being newly inserted.
+- <img src="web-not-word/del.gif" width="20" height="20" alt=""> `<del>` Mark the text as being deleted.
+- <img src="web-not-word/cite.gif" width="20" height="20" alt=""> `<cite>` Mark the text as being the title of a work (e.g. a book, a poem, a song, a film, a TV show, a game, etc).
+- <img src="web-not-word/time.gif" width="20" height="20" alt=""> `<time>` Mark the text as being a time and get the user to add a date-time.
 
 Each of the above toolbar buttons directly correspond to an HTML element. Paragraphs would be created from breaks in the text.
 

@@ -12,11 +12,11 @@ The graphic presented on the right is a static version of the what the calendar 
 
 Especially when describing something that only I can only—and ever will—see. So I have created a very basic mock-up of the year loop in a three-dimensional Flash movie.
 
-![]({{"img2"|env}}/articles/year-loop/year-loop.png)
+![](year-loop/year-loop.png)
 
 <div>
 	<figure style="text-align:center; background-color:#000;">
-		<embed src="{{"img2"|env}}/articles/year-loop/year-loop.swf" type="application/x-shockwave-flash" allowscriptaccess="always" width="700" height="400">
+		<embed src="year-loop/year-loop.swf" type="application/x-shockwave-flash" allowscriptaccess="always" width="700" height="400">
 	</figure>
 </div>
 

@@ -28,14 +28,14 @@ Just in case you forgot what the site looked like last week, here is a quick ref
 
 It was a simple centred layout with a Flash header. The header and background were time-sensitive and would change depending on the time of day. By clicking the pink star you could trigger a stylesheet switcher from inside Flash and time warp the design. I used my mad-2006-skills to make that happen and to this day love the effect—too bad it just didn’t work in the new design.
 
-![The old design: online from 2006 to July 3<sup>rd</sup>, 2009.]({{"img2"|env}}/articles/evolution/old-site.jpg "Thin, centre aligned white box with a pink rocket and a starburst on a light brown background.")
+![The old design: online from 2006 to July 3<sup>rd</sup>, 2009.](evolution/old-site.jpg)
 
-#### Likes:[likes1]
+#### Likes
 
 - The retro feel and the pink rocket
 - The time-warp functionality and time-sensitive stylesheets
 
-#### Dislikes:[dislikes1]
+#### Dislikes
 
 - Too small
 - Flash navigation
@@ -48,14 +48,14 @@ The goal of my first re-design was to modernize the retro feel and provide a fle
 
 When I created this design I still worked at [gordongroup](http://gordongroup.com), we were encouraged to bring in personal design/web projects to meetings and talk about them. This design didn’t get the best reception and after some time I tossed it.
 
-![The white design: first in, first out, lasted for a month or so.]({{"img2"|env}}/articles/evolution/white.jpg "White background with centred pink rocket and navigation. Underneath the navigation was a blank area for blog posts.")
+![The white design: first in, first out, lasted for a month or so.](evolution/white.jpg)
 
-#### Likes:[likes2]
+#### Likes
 
 - The flexible blog post area
 - The direction the branding was going: simple and white
 
-#### Dislikes:[dislikes2]
+#### Dislikes
 
 - The design was bland
 - It didn’t effectively portray my personality
@@ -66,13 +66,13 @@ For the brown design I was inspired by the pattern on the inside of my messenger
 
 On a positive note, this design did kick-start the new branding—it features a near final version of the word mark and a slightly older logo. With this design you can also see the the start of the hanging rocket trend, which has continued throughout the rest of the designs.
 
-![The brown design: an absolute failure.]({{"img2"|env}}/articles/evolution/brown.jpg "Dark brown background with vertical strips. Navigation is contained in pink boxes.")
+![The brown design: an absolute failure.](evolution/brown.jpg "Dark brown background with vertical strips. Navigation is contained in pink boxes.")
 
-#### Likes:[likes3]
+#### Likes
 
 - The word mark and the hanging rocket
 
-#### Dislikes:[dislikes3]
+#### Dislikes
 
 - Everything
 
@@ -86,13 +86,13 @@ My major concerns with the purple design were the massive weight of the purple c
 
 [Wilson Miner’s](http://www.wilsonminer.com/) previous site design was a huge inspiration for the purple design.
 
-![The purple design lasted the longest, over a year.]({{"img2"|env}}/articles/evolution/purple.jpg "Purple background with a white column and deep purple column. Design is very boxy and includes the hanging rocket.")
+![The purple design lasted the longest, over a year.](evolution/purple.jpg "Purple background with a white column and deep purple column. Design is very boxy and includes the hanging rocket.")
 
-#### Likes:[likes4]
+#### Likes
 
 - Almost every aspect: the hanging rocket, the colour palette, the architecture, the simplicity, etc.
 
-#### Dislikes:[dislikes4]
+#### Dislikes
 
 - The design was crampin’
 

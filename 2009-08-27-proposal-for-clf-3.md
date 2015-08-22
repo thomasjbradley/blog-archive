@@ -20,7 +20,7 @@ I have wrangled up a few great examples that push the CLF envelope to the edge a
 
 ### [Service Canada](http://www.servicecanada.gc.ca/eng/home.shtml)
 
-![]({{"img2"|env}}/articles/clf3/service-canada.jpg)
+![](clf3/service-canada.jpg)
 
 First up is [Service Canada](http://www.servicecanada.gc.ca/eng/home.shtml), which follows CLF to a tittle but has a few extra flourishes that sets it apart from other GC sites.
 
@@ -34,7 +34,7 @@ Service Canada is a refreshing example of creativity in the CLF world. It looks 
 
 ### [Natural Sciences and Engineering Research Council of Canada](http://www.nserc-crsng.gc.ca/Index_eng.asp)
 
-![Whoa, what’s wrong with the colour of the flag?]({{"img2"|env}}/articles/clf3/natural-sciences.jpg)
+![Whoa, what’s wrong with the colour of the flag?](clf3/natural-sciences.jpg)
 
 The [Natural Sciences and Engineering](http://www.nserc-crsng.gc.ca/Index_eng.asp) web site breaks the mould a little bit. Web 2.0 gradients are prominent all over the web site—maybe even a little too much—but it is nice to see something that looks different. All the page elements fit the template but have had a slight makeover.
 
@@ -48,7 +48,7 @@ The Natural Science web site pushes the envelope enough that is isn’t lost in 
 
 ### [Canada’s Air Force Aircraft Micro-site](http://www.airforce.forces.gc.ca/v2/equip/ch148/index-eng.asp)
 
-![Designed by my colleague, [Chrys Moll](http://www.linkedin.com/pub/chrys-moll/3/704/38b).]({{"img2"|env}}/articles/clf3/aircraft.jpg)
+![Designed by my colleague, [Chrys Moll](http://www.linkedin.com/pub/chrys-moll/3/704/38b).](clf3/aircraft.jpg)
 
 Finally an example that takes the customization of the content area to the extreme is the [aircraft micro-site](http://www.airforce.forces.gc.ca/v2/equip/ch148/index-eng.asp). You will find that the elements of the site still fit into the grid of CLF but look nothing like CLF. The left navigation is completely CLF but the content area has no indication of CLF.
 
@@ -66,7 +66,7 @@ There is one class of web sites that could really benefit from having a more fle
 
 ### [NRCan Library](http://catalogue.nrcan.gc.ca/opac/en-CA/skin/nrcan-rncan/xml/)
 
-![]({{"img2"|env}}/articles/clf3/nrcan.jpg)
+![](clf3/nrcan.jpg)
 
 The [Natural Resources Canada Library](http://catalogue.nrcan.gc.ca/opac/en-CA/skin/nrcan-rncan/xml/) is currently going through the process of transferring their library system from an old proprietary system to the open-source [Evergreen](http://www.open-ils.org/) system.
 
@@ -78,7 +78,7 @@ This is a perfect example of where CLF isn’t appropriate. Evergreen is meant t
 
 Common Look and Feel 2.0 stepped in the right direction by enforcing web standards. My proposal for CLF isn’t to remove many of the standards restrictions that CLF imposes—in fact I am very happy those restrictions exist—just to allow a little more flexibility in the CLF templates for web-apps and sites that may want to get creative.
 
-![The GC Omnibar.]({{"img2"|env}}/articles/clf3/omnibar.jpg)
+![The GC Omnibar.](clf3/omnibar.jpg)
 
 Ok, so we are finally at the proposal: make the template a toolbar across the top of the page with the pertinent information. Still enforce web standards and accessibility but allow the site to have an individual design and layout (fixed, fluid or elastic—fixed width sites may still have a maximum width imposed by CLF). The Treasury Board could still provide templates similar to the current CLF that has a pre made grid for departments that don’t want/need to get creative. But for those designers who thrive on creativity CLF shouldn’t impose any major layout or design constraints except those based on web standards and accessibility practices (I’m looking at you Flash sites).
 
